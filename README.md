@@ -50,6 +50,6 @@
 ---
 
 ## References:
-- [WebStorm Documentation](https://www.jetbrains.com/webstorm/documentation/documentation.html)
+- [WebStorm Documentation](https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html)
 - [GitHub Guides](https://guides.github.com/)
 - [Git Documentation](https://git-scm.com/doc)
