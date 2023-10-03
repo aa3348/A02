@@ -34,18 +34,18 @@
 
 ## PART 2: Glossary 
 
-- **Branch**: A distinct line of development.
-- **Clone**: A local replica of a repository.
-- **Commit**: A specific change to a file or group of files.
-- **Fetch**: Acquiring content from a remote repository.
+- **Branch**: A separate line of development. You can think of it as a unique set of code changes with a unique name.
+- **Clone**: A copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. 
+- **Commit**: An individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID allowing you to keep record of what changes were made when and by who.
+- **Fetch**: Downloading commits, files, and refs from a remote repository into your local repo.
 - **GIT**: An open-source distributed version control platform.
-- **Github**: An online hub for version-controlled projects and collaboration.
-- **Merge**: Integrating changes from one branch into another.
-- **Merge Conflict**: Issues arising from differing changes to a file.
-- **Push**: Propagating committed changes to a remote repository.
-- **Pull**: Acquiring and combining changes from a remote source.
+- **Github**: A platform/service that uses Git for version control and provides a place online to store backed-up, version-controlled work.
+- **Merge**: Taking the changes from one branch and applying them onto another.
+- **Merge Conflict**: Occurs when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file.
+- **Push**: Refers to sending your committed changes to a remote repository on GitHub.com
+- **Pull**: Refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy to stay up-to-date.
 - **Remote**: A version of something hosted on a server, like GitHub.com.
-- **Repository**: A space or directory for your projects.
+- **Repository**: A directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
 
 ---
 
