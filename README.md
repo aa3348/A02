@@ -31,3 +31,25 @@
    - Right-click the project or file > `Git > Repository > Push` to synchronize the remote repository on GitHub.
 
 ---
+
+## PART 2: Glossary 
+
+- **Branch**: A distinct line of development.
+- **Clone**: A local replica of a repository.
+- **Commit**: A specific change to a file or group of files.
+- **Fetch**: Acquiring content from a remote repository.
+- **GIT**: An open-source distributed version control platform.
+- **Github**: An online hub for version-controlled projects and collaboration.
+- **Merge**: Integrating changes from one branch into another.
+- **Merge Conflict**: Issues arising from differing changes to a file.
+- **Push**: Propagating committed changes to a remote repository.
+- **Pull**: Acquiring and combining changes from a remote source.
+- **Remote**: A version of something hosted on a server, like GitHub.com.
+- **Repository**: A space or directory for your projects.
+
+---
+
+## References:
+- [WebStorm Documentation](https://www.jetbrains.com/webstorm/documentation/documentation.html)
+- [GitHub Guides](https://guides.github.com/)
+- [Git Documentation](https://git-scm.com/doc)
